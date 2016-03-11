@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">parfrag</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Headline_get_button">Get</string>
+    <string name="title_activity_sharing">SharingActivity</string>
+    <string name="title_activity_content_provider">ContentProviderActivity</string>
+    <string name="title_activity_adapters">AdaptersActivity</string>
+    <string name="title_activity_super">SuperActivity</string>
+    <string name="title_activity_fragment">FragmentActivity</string>
+    <string name="title_activity_new">NewActivity</string>
+    <string name="title_activity_handler">HandlerActivity</string>
+    <string name="title_activity_loader">LoaderActivity</string>
+
+</resources>
